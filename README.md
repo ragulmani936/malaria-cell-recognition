@@ -158,3 +158,4 @@ Include confusion matrix here
 Include your sample cell image input and output of your model.
 
 ## RESULT
+Successfully developed a convolutional deep neural network for Malaria Infected Cell Recognition.
