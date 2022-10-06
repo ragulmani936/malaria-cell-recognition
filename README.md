@@ -5,7 +5,7 @@
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 
 ## Problem Statement and Dataset
-
+Problem Statement and Dataset Neural Network Model Include the neural network model diagram.
 ## Neural Network Model
 
 Include the neural network model diagram.
