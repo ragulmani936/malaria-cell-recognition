@@ -143,19 +143,19 @@ print[predictions]
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![output]()
 
 ### Classification Report
 
-Include Classification Report here
+![output]()
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![output]()
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+![output]()
 
 ## RESULT
 Successfully developed a convolutional deep neural network for Malaria Infected Cell Recognition.
